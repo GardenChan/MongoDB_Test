@@ -1,15 +1,17 @@
 # MongoDb_Test
 
-# mongo.txt 用来向mongodb中插入数据
+## 简介 
+mongo.txt 用来向mongodb中插入数据
 
-# 本项目在于简单实现文章的评论功能的demo https://www.toutiao.com/a6721476546088927748/
+本项目在于简单实现文章的评论功能的demo 
+了解评论场景可以参考 https://www.toutiao.com/a6721476546088927748/
 
-# 主要简单实现以下功能：
+## 主要简单实现以下功能：
 1. 基本增删改查API
 2. 根据文章id查询评论
 3. 评论点赞
 
-# mongodb的表结构介绍
+## mongodb的表结构介绍
 数据库 garden
 |专栏文章评论|comment|||
 |--|--|--|--|
