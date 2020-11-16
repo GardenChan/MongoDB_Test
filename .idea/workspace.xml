@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ead058a-933b-4b43-84f8-897e8e750ec6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\my_java\maven_repository" />
+        <option name="mavenHome" value="C:/my_java/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\my_java\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1kMd06fBaoqX8SFOyRPaC2Q3Joj" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.29875" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="JUnit.CommentServiceTest.testFindCommentList">
+    <configuration name="CommentServiceTest.testFindCommentList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.garden.article.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.garden.article.service" />
+      <option name="MAIN_CLASS_NAME" value="org.garden.article.service.CommentServiceTest" />
+      <option name="METHOD_NAME" value="testFindCommentList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentServiceTest.testFindCommentListByParentId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.garden.article.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.garden.article.service" />
+      <option name="MAIN_CLASS_NAME" value="org.garden.article.service.CommentServiceTest" />
+      <option name="METHOD_NAME" value="testFindCommentListByParentId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentServiceTest.testSaveComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.garden.article.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.garden.article.service" />
+      <option name="MAIN_CLASS_NAME" value="org.garden.article.service.CommentServiceTest" />
+      <option name="METHOD_NAME" value="testSaveComment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentServiceTest.testUpdateCommentLikeNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mongo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.garden.article.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.garden.article.service" />
+      <option name="MAIN_CLASS_NAME" value="org.garden.article.service.CommentServiceTest" />
+      <option name="METHOD_NAME" value="testUpdateCommentLikeNum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CommentServiceTest.testFindCommentList" />
+        <item itemvalue="JUnit.CommentServiceTest.testFindCommentListByParentId" />
+        <item itemvalue="JUnit.CommentServiceTest.testUpdateCommentLikeNum" />
+        <item itemvalue="JUnit.CommentServiceTest.testSaveComment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ead058a-933b-4b43-84f8-897e8e750ec6" name="Default Changelist" comment="" />
+      <created>1605514167568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605514167568</updated>
+      <workItem from="1605514170412" duration="6566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1605517486340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605517486340" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1605515928249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605515928249" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605524130435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605524130435" />
+    <state width="1877" height="377" key="GridCell.Tab.0.bottom" timestamp="1605517646145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605517646145" />
+    <state width="1877" height="377" key="GridCell.Tab.0.center" timestamp="1605517646145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605517646145" />
+    <state width="1877" height="377" key="GridCell.Tab.0.left" timestamp="1605517646145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605517646145" />
+    <state width="1877" height="377" key="GridCell.Tab.0.right" timestamp="1605517646145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="377" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605517646145" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1605524856996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605524856996" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605515999988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605515999988" />
+  </component>
+</project>
